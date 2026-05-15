@@ -6,4 +6,4 @@ __pycache__/
 .env
 mlflow_runs/
 data/processed/merged.csv
-data/raw/
+.ipynb_checkpoints/
