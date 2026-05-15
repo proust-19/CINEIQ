@@ -5,3 +5,5 @@ __pycache__/
 *.pyc
 .env
 mlflow_runs/
+data/processed/merged.csv
+data/raw/
