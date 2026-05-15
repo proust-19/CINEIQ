@@ -1,0 +1,7 @@
+data/raw/
+models/
+venv/
+__pycache__/
+*.pyc
+.env
+mlflow_runs/
