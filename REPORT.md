@@ -1,6 +1,6 @@
 # CineIQ: Hybrid Movie Recommendation Engine
 
-**Author:** Uday Kumar  
+**Authors:** Purshotam Kumar and Uday Kumar  
 **Date:** May 2026  
 **Code:** [github.com/proust-19/CINEIQ](https://github.com/proust-19/CINEIQ)
 
