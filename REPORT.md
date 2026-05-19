@@ -144,4 +144,4 @@ The project serves as both a functional recommendation engine and a reference ar
 
 ---
 
-*Report generated for CINEIQ project submission -- May 2026*
+*Report for CINEIQ project submission -- May 2026*
