@@ -8,6 +8,5 @@ mlflow_runs/
 data/processed/merged.csv
 .ipynb_checkpoints/
 *.mp4
-*.mp4:Zone.Identifier
 *.mov
 *.avi
