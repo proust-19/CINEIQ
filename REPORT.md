@@ -1,6 +1,6 @@
 # CineIQ: Hybrid Movie Recommendation Engine
 
-**Author:** Purshotam Kumar  
+**Author:** Uday Kumar  
 **Date:** May 2026  
 **Code:** [github.com/proust-19/CINEIQ](https://github.com/proust-19/CINEIQ)
 
@@ -142,6 +142,4 @@ CineIQ demonstrates a production-ready hybrid recommendation system combining co
 
 The project serves as both a functional recommendation engine and a reference architecture for hybrid ML systems -- with clear pathways for scaling to larger datasets, adopting deep learning, and incorporating richer signals through the proposed upgradation roadmap.
 
----
 
-*Report for CINEIQ project submission -- May 2026*
