@@ -12,7 +12,7 @@
 
 ## Demo
 
-📺 [Watch the demo video](https://drive.google.com/drive/folders/19UV3VKil2OySDkIycge5x8cRsgnCnGiG?usp=sharing)
+📺 [Watch the demo video](https://drive.google.com/file/d/1pG4cxj4uCaGx4k4y1ur_9LR1Tl5vv7fd/view?usp=sharing)
 
 ---
 
