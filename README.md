@@ -172,5 +172,8 @@ curl -X POST http://localhost:8000/recommend \
 ```
 
 ## License
-
+## Authors
+## Authors
+* **Purshotam Kumar** - [proust-19](https://github.com/proust-19)
+* **Uday Kumar** - [udaykumar-01](https://github.com/udaykumar-01)
 MIT
